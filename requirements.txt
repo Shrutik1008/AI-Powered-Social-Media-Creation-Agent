@@ -1,0 +1,6 @@
+streamlit
+moviepy
+gTTS
+openai
+pillow==9.5.0
+imageio[ffmpeg]
