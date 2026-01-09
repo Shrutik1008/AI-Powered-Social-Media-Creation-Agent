@@ -1,7 +1,0 @@
-gTTs
-streamlit
-openai
-Pillow
-requests
-rich
-

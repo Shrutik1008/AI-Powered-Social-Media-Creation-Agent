@@ -1,0 +1,5 @@
+moviepy>=2.0.0
+gtts
+pillow
+imageio
+imageio-ffmpeg
